@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="os" value="Windows"/>
+  <parameter name="browser" value="Chrome"/>
+  <listeners>
+    <listener class-name="utilities.ExtentReportManager"/>
+  </listeners>
+  <test parallel="classes" name="Test1(failed)">
+    <parameter name="os" value="Windows"/>
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="testCases.TC_01_LoginTest">
+        <methods>
+          <include name="verifyLoginTest"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testCases.TC_01_LoginTest -->
+      <class name="testCases.TC_02_LoginTestDDT">
+        <methods>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC_02_LoginTestDDT -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->

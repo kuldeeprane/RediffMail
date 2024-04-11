@@ -1,0 +1,55 @@
+15:42:47.717 [TestNG] INFO  testCases.TC_02_LoginTestDDT - ******Ended TC_02_LoginTestDDT******
+15:42:58.805 [TestNG] INFO  testCases.TC_02_LoginTestDDT - ******Starting TC_02_LoginTestDDT******
+15:43:01.014 [TestNG] INFO  testCases.TC_02_LoginTestDDT - ******Ended TC_02_LoginTestDDT******
+16:37:03.230 [TestNG] INFO  testCases.TC_01_LoginTest - ******Staring Login Test******
+16:37:04.435 [TestNG] INFO  testCases.TC_01_LoginTest - Clicked on registeration link
+16:37:04.591 [TestNG] INFO  testCases.TC_01_LoginTest - Entered email id
+16:37:04.845 [TestNG] INFO  testCases.TC_01_LoginTest - Entered Password
+16:37:07.203 [TestNG] INFO  testCases.TC_01_LoginTest - Clicked sign in button
+16:37:25.421 [TestNG] INFO  testCases.TC_01_LoginTest - Entered captcha
+16:38:03.138 [pool-1-thread-2] INFO  testCases.TC_02_LoginTestDDT - ******Starting TC_02_LoginTestDDT******
+16:38:03.653 [pool-1-thread-1] INFO  testCases.TC_01_LoginTest - ******Staring Login Test******
+14:05:28.672 [main] INFO  testCases.TC_01_LoginTest - ******Staring Login Test******
+14:05:30.627 [main] INFO  testCases.TC_01_LoginTest - Clicked on registeration link
+14:05:30.747 [main] INFO  testCases.TC_01_LoginTest - Entered email id
+14:05:30.941 [main] INFO  testCases.TC_01_LoginTest - Entered Password
+14:05:31.542 [main] INFO  testCases.TC_01_LoginTest - Clicked sign in button
+14:05:51.561 [main] INFO  testCases.TC_01_LoginTest - Entered captcha
+14:05:54.889 [main] INFO  testCases.TC_01_LoginTest - Logged into rediff
+14:05:54.905 [main] INFO  testCases.TC_01_LoginTest - Test Passed.......
+14:05:54.905 [main] INFO  testCases.TC_01_LoginTest - ******Finished Login Test******
+14:09:01.900 [main] INFO  testCases.TC_01_LoginTest - ******Staring Login Test******
+14:09:02.699 [main] INFO  testCases.TC_01_LoginTest - Clicked on registeration link
+14:09:02.832 [main] INFO  testCases.TC_01_LoginTest - Entered email id
+14:09:02.998 [main] INFO  testCases.TC_01_LoginTest - Entered Password
+14:09:04.656 [main] INFO  testCases.TC_01_LoginTest - Clicked sign in button
+14:09:24.734 [main] INFO  testCases.TC_01_LoginTest - Entered captcha
+14:09:28.440 [main] INFO  testCases.TC_01_LoginTest - Logged into rediff
+14:09:28.457 [main] INFO  testCases.TC_01_LoginTest - Test Passed.......
+14:09:28.457 [main] INFO  testCases.TC_01_LoginTest - ******Finished Login Test******
+14:25:14.948 [main] INFO  testCases.TC_01_LoginTest - ******Staring Login Test******
+14:25:15.857 [main] INFO  testCases.TC_01_LoginTest - Clicked on registeration link
+14:25:16.012 [main] INFO  testCases.TC_01_LoginTest - Entered email id
+14:25:16.333 [main] INFO  testCases.TC_01_LoginTest - Entered Password
+14:25:17.064 [main] INFO  testCases.TC_01_LoginTest - Clicked sign in button
+14:25:37.165 [main] INFO  testCases.TC_01_LoginTest - Entered captcha
+14:25:41.014 [main] INFO  testCases.TC_01_LoginTest - Logged into rediff
+14:25:41.037 [main] INFO  testCases.TC_01_LoginTest - Test Passed.......
+14:25:41.037 [main] INFO  testCases.TC_01_LoginTest - ******Finished Login Test******
+14:28:40.865 [main] INFO  testCases.TC_01_LoginTest - ******Staring Login Test******
+14:28:41.688 [main] INFO  testCases.TC_01_LoginTest - Clicked on registeration link
+14:28:41.925 [main] INFO  testCases.TC_01_LoginTest - Entered email id
+14:28:42.064 [main] INFO  testCases.TC_01_LoginTest - Entered Password
+14:28:42.968 [main] INFO  testCases.TC_01_LoginTest - Clicked sign in button
+14:29:03.053 [main] INFO  testCases.TC_01_LoginTest - Entered captcha
+14:29:07.698 [main] INFO  testCases.TC_01_LoginTest - Logged into rediff
+14:29:07.715 [main] INFO  testCases.TC_01_LoginTest - Test Passed.......
+14:29:07.715 [main] INFO  testCases.TC_01_LoginTest - ******Finished Login Test******
+14:31:04.899 [main] INFO  testCases.TC_01_LoginTest - ******Staring Login Test******
+14:31:06.109 [main] INFO  testCases.TC_01_LoginTest - Clicked on registeration link
+14:31:06.206 [main] INFO  testCases.TC_01_LoginTest - Entered email id
+14:31:06.411 [main] INFO  testCases.TC_01_LoginTest - Entered Password
+14:31:07.130 [main] INFO  testCases.TC_01_LoginTest - Clicked sign in button
+14:31:27.228 [main] INFO  testCases.TC_01_LoginTest - Entered captcha
+14:31:27.593 [main] INFO  testCases.TC_01_LoginTest - Logged into rediff
+14:31:27.847 [main] INFO  testCases.TC_01_LoginTest - Test failed.....Title not as expected

@@ -1,0 +1,60 @@
+19:38:48.355 [main] INFO  testCases.TC_02_LoginTestDDT - ******Starting TC_02_LoginTestDDT******
+19:39:26.135 [main] INFO  testCases.TC_02_LoginTestDDT - ******Ended TC_02_LoginTestDDT******
+19:39:33.039 [main] INFO  testCases.TC_02_LoginTestDDT - ******Starting TC_02_LoginTestDDT******
+19:39:34.747 [main] INFO  testCases.TC_02_LoginTestDDT - ******Ended TC_02_LoginTestDDT******
+19:39:39.909 [main] INFO  testCases.TC_02_LoginTestDDT - ******Starting TC_02_LoginTestDDT******
+19:39:41.380 [main] INFO  testCases.TC_02_LoginTestDDT - ******Ended TC_02_LoginTestDDT******
+19:39:46.754 [main] INFO  testCases.TC_02_LoginTestDDT - ******Starting TC_02_LoginTestDDT******
+19:39:48.325 [main] INFO  testCases.TC_02_LoginTestDDT - ******Ended TC_02_LoginTestDDT******
+22:47:26.366 [main] INFO  testCases.TC_01_LoginTest - ******Staring Login Test******
+22:47:27.507 [main] INFO  testCases.TC_01_LoginTest - Clicked on registeration link
+22:47:27.677 [main] INFO  testCases.TC_01_LoginTest - Entered email id
+22:47:27.866 [main] INFO  testCases.TC_01_LoginTest - Entered Password
+22:47:28.346 [main] INFO  testCases.TC_01_LoginTest - Clicked sign in button
+22:47:48.355 [main] INFO  testCases.TC_01_LoginTest - Entered captcha
+22:47:52.032 [main] INFO  testCases.TC_01_LoginTest - Logged into rediff
+22:47:52.043 [main] INFO  testCases.TC_01_LoginTest - Test Passed.......
+22:47:52.043 [main] INFO  testCases.TC_01_LoginTest - ******Finished Login Test******
+22:50:21.129 [main] INFO  testCases.TC_01_LoginTest - ******Staring Login Test******
+22:50:22.302 [main] INFO  testCases.TC_01_LoginTest - Clicked on registeration link
+22:50:22.510 [main] INFO  testCases.TC_01_LoginTest - Entered email id
+22:50:22.594 [main] INFO  testCases.TC_01_LoginTest - Entered Password
+22:50:23.064 [main] INFO  testCases.TC_01_LoginTest - Clicked sign in button
+22:50:43.067 [main] INFO  testCases.TC_01_LoginTest - Entered captcha
+22:50:43.164 [main] INFO  testCases.TC_01_LoginTest - Logged into rediff
+22:52:02.256 [main] INFO  testCases.TC_01_LoginTest - ******Staring Login Test******
+22:52:03.064 [main] INFO  testCases.TC_01_LoginTest - Clicked on registeration link
+22:52:03.182 [main] INFO  testCases.TC_01_LoginTest - Entered email id
+22:52:03.398 [main] INFO  testCases.TC_01_LoginTest - Entered Password
+22:52:03.781 [main] INFO  testCases.TC_01_LoginTest - Clicked sign in button
+22:52:23.783 [main] INFO  testCases.TC_01_LoginTest - Entered captcha
+22:52:23.847 [main] INFO  testCases.TC_01_LoginTest - Logged into rediff
+22:54:26.072 [main] INFO  testCases.TC_01_LoginTest - ******Staring Login Test******
+22:54:27.287 [main] INFO  testCases.TC_01_LoginTest - Clicked on registeration link
+22:54:27.382 [main] INFO  testCases.TC_01_LoginTest - Entered email id
+22:54:27.504 [main] INFO  testCases.TC_01_LoginTest - Entered Password
+22:54:27.982 [main] INFO  testCases.TC_01_LoginTest - Clicked sign in button
+22:54:47.990 [main] INFO  testCases.TC_01_LoginTest - Entered captcha
+22:54:48.064 [main] INFO  testCases.TC_01_LoginTest - Logged into rediff
+15:32:18.271 [main] INFO  testCases.TC_01_LoginTest - ******Staring Login Test******
+15:32:18.828 [main] INFO  testCases.TC_01_LoginTest - Clicked on registeration link
+15:32:18.917 [main] INFO  testCases.TC_01_LoginTest - Entered email id
+15:32:18.991 [main] INFO  testCases.TC_01_LoginTest - Entered Password
+15:32:19.951 [main] INFO  testCases.TC_01_LoginTest - Clicked sign in button
+15:32:39.964 [main] INFO  testCases.TC_01_LoginTest - Entered captcha
+15:32:43.365 [main] INFO  testCases.TC_01_LoginTest - Logged into rediff
+15:32:43.379 [main] INFO  testCases.TC_01_LoginTest - Test Passed.......
+15:32:43.379 [main] INFO  testCases.TC_01_LoginTest - ******Finished Login Test******
+15:36:19.180 [main] INFO  testCases.TC_02_LoginTestDDT - ******Starting TC_02_LoginTestDDT******
+15:37:25.845 [main] INFO  testCases.TC_02_LoginTestDDT - ******Ended TC_02_LoginTestDDT******
+15:38:00.581 [main] INFO  testCases.TC_02_LoginTestDDT - ******Starting TC_02_LoginTestDDT******
+15:38:02.608 [main] INFO  testCases.TC_02_LoginTestDDT - ******Ended TC_02_LoginTestDDT******
+15:38:37.540 [main] INFO  testCases.TC_02_LoginTestDDT - ******Starting TC_02_LoginTestDDT******
+15:38:38.739 [main] INFO  testCases.TC_02_LoginTestDDT - ******Ended TC_02_LoginTestDDT******
+15:38:43.592 [main] INFO  testCases.TC_02_LoginTestDDT - ******Starting TC_02_LoginTestDDT******
+15:38:44.925 [main] INFO  testCases.TC_02_LoginTestDDT - ******Ended TC_02_LoginTestDDT******
+15:41:17.983 [TestNG] INFO  testCases.TC_02_LoginTestDDT - ******Starting TC_02_LoginTestDDT******
+15:42:00.902 [TestNG] INFO  testCases.TC_02_LoginTestDDT - ******Ended TC_02_LoginTestDDT******
+15:42:08.492 [TestNG] INFO  testCases.TC_02_LoginTestDDT - ******Starting TC_02_LoginTestDDT******
+15:42:10.413 [TestNG] INFO  testCases.TC_02_LoginTestDDT - ******Ended TC_02_LoginTestDDT******
+15:42:43.456 [TestNG] INFO  testCases.TC_02_LoginTestDDT - ******Starting TC_02_LoginTestDDT******
